@@ -1,4 +1,36 @@
 site_name: DocUTT
-site_url: 
+site_url: https://Greenfox73.github.io/DocUTT/
+site_author: Jean-Sebastien RIGAUD
+copyright: Copyright &copy; 2026 Jean-Sebastien RIGAUD
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.integrate
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - palette.toggle
+    - palette.light
+    - palette.dark
+    - content.math
+
+nav:
+  - Home: index.md
+  - Soutien mathématiques:
+    - Calcul littéral: soutien_math/calcul_litteral.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      inline_syntax: ['$', '$']   # Pour les formules en ligne
+      generic: true
+  - attr_list
+  - md_in_html
+
+extra_javascript:
+- mathjax-config.js
+- https://polyfill.io/v3/polyfill.min.js?features=es6
+- https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

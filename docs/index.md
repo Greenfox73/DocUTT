@@ -1,17 +1,15 @@
-# Bienvenue sur DocUTT ououi
+# Bienvenue sur DocUTT
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Ce site est mon espace personnel de gestion et d’organisation de la documentation liée à mes cours pour mon diplôme, projets et révisions d’ingénieur à l’UTT (Université de Technologie de Troyes).
 
-## Commands
+## Objectifs
+- Centraliser de cours
+- Structurer mes notes et documenter mes révisions par matière
+- Suivre ma progression vers l’obtention du diplôme
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Organisation
+La documentation est classée par année, avec des pages thèmes et matières dédiées pour les exercices, les résumés de cours et les projets.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> Ce site est conçu comme un outil de travail et de référence pour accompagner mon parcours académique.

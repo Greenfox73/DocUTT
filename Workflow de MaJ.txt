@@ -6,7 +6,7 @@
 
 2. **Vérifie en local**  
    ```bash
-   mkdocs serve
+   mkdocs serve --livereload
    ```
    👉 Va sur `http://127.0.0.1:8000/` pour voir si tout s’affiche correctement.
 
