@@ -1,0 +1,40 @@
+# 🚀 Workflow de mise à jour
+
+1. **Sauvegarde tes modifications**  
+   - Mets à jour tes fichiers dans le dossier `docs/` ou ton `mkdocs.yml`.  
+   - Sauvegarde dans VS Code.
+
+2. **Vérifie en local**  
+   ```bash
+   mkdocs serve
+   ```
+   👉 Va sur `http://127.0.0.1:8000/` pour voir si tout s’affiche correctement.
+
+3. **Enregistre les changements avec Git**  
+   ```bash
+   git add .
+   git commit -m "Mise à jour du site"
+   git push origin main
+   ```
+   👉 Cela met à jour ton dépôt GitHub avec tes fichiers sources.
+
+4. **Déploie ton site en ligne**  
+   ```bash
+   mkdocs gh-deploy
+   ```
+   👉 Cette commande régénère ton site et pousse la version HTML dans la branche `gh-pages`.
+
+5. **Vérifie en ligne**  
+   - Attends quelques secondes.  
+   - Rafraîchis ton site :  
+     ```
+     https://Greenfox73.github.io/DocUTT/
+     ```
+
+---
+
+# 🎯 Résumé ultra‑rapide
+- `mkdocs serve` → tester en local  
+- `git add . && git commit && git push` → envoyer tes sources sur GitHub  
+- `mkdocs gh-deploy` → publier ton site en ligne  
+
