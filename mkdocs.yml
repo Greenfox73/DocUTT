@@ -22,6 +22,33 @@ nav:
   - Home: index.md
   - Soutien mathématiques:
     - Calcul littéral: soutien_math/calcul_litteral.md
+  - Année 1:
+    - Semestre 1:
+      - CS: annee_1/semestre_1_cs.md
+      - TM: annee_1/semestre_1_tm.md
+      - EC: annee_1/semestre_1_ec.md
+      - ME: annee_1/semestre_1_me.md
+      - HT: annee_1/semestre_1_ht.md
+    - Semestre 2:
+      - CS: annee_1/semestre_2_cs.md
+      - TM: annee_1/semestre_2_tm.md
+      - EC: annee_1/semestre_2_ec.md
+      - ME: annee_1/semestre_2_me.md
+      - HT: annee_1/semestre_2_ht.md
+  - Année 2:
+    - Semestre 1:
+      - CS: annee_2/semestre_1_cs.md
+      - TM: annee_2/semestre_1_tm.md
+      - EC: annee_2/semestre_1_ec.md
+      - ME: annee_2/semestre_1_me.md
+      - HT: annee_2/semestre_1_ht.md
+    - Semestre 2:
+      - CS: annee_2/semestre_2_cs.md
+      - TM: annee_2/semestre_2_tm.md
+      - EC: annee_2/semestre_2_ec.md
+      - ME: annee_2/semestre_2_me.md
+      - HT: annee_2/semestre_2_ht.md
+
 
 markdown_extensions:
   - pymdownx.arithmatex:
