@@ -21,7 +21,9 @@ theme:
 nav:
   - Home: index.md
   - Soutien mathématiques:
-    - Exercices: 
+    - Cours:
+      - Résolution d’équations du second degré: soutien_math/equation_2nd_degre.md
+    - Exercices:
       - Simplification et Agilité Algébrique: soutien_math/simplification_et_agilite_algebrique.md
       - Logarithmes et Exponentielles: soutien_math/logarithmes_et_exponentielles.md
     - Calcul littéral: soutien_math/calcul_litteral.md
