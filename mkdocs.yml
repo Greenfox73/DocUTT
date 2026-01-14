@@ -21,6 +21,9 @@ theme:
 nav:
   - Home: index.md
   - Soutien mathématiques:
+    - Exercices: 
+      - Simplification et Agilité Algébrique: soutien_math/simplification_et_agilite_algebrique.md
+      - Logarithmes et Exponentielles: soutien_math/logarithmes_et_exponentielles.md
     - Calcul littéral: soutien_math/calcul_litteral.md
   - Année 1:
     - Semestre 1:
@@ -56,6 +59,7 @@ markdown_extensions:
       generic: true
   - attr_list
   - md_in_html
+  - pymdownx.blocks.caption
 
 extra_javascript:
 - mathjax-config.js
