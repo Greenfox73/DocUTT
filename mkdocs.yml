@@ -23,11 +23,14 @@ nav:
   - Soutien mathématiques:
     - Cours:
       - Résolution d’équations du second degré: soutien_math/equation_2nd_degre.md
-      - Logarithmes et Exponentielles: soutien_math/logarithmes_et_exponentielles_cours.md
+      - Logarithmes et exponentielles: soutien_math/logarithmes_et_exponentielles_cours.md
+      - Calcul littéral : soutien_math/calcul_litteral_cours.md
     - Exercices:
-      - Simplification et Agilité Algébrique: soutien_math/simplification_et_agilite_algebrique.md
-      - Logarithmes et Exponentielles: soutien_math/logarithmes_et_exponentielles_exos.md
-      - Calcul littéral: soutien_math/calcul_litteral.md
+      - Simplification et agilité algébrique: soutien_math/simplification_et_agilite_algebrique_exos.md
+      - Logarithmes et exponentielles: soutien_math/logarithmes_et_exponentielles_exos.md
+      - Calcul littéral et DES: soutien_math/calcul_litteral_et_des_exos.md
+      - Factorisation avancée: soutien_math/factorisation_avancee_exos.md
+      - Second degré et changements de variable: soutien_math/second_degre_et_changements_de_variable_exos.md
     - Archives:
       - Calcul littéral: soutien_math/calcul_litteral_beta.md
 
@@ -66,6 +69,12 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_javascript:
 - mathjax-config.js
