@@ -30,11 +30,3 @@
      ```
      https://Greenfox73.github.io/DocUTT/
      ```
-
----
-
-# 🎯 Résumé ultra‑rapide
-- `mkdocs serve` → tester en local  
-- `git add . && git commit && git push` → envoyer tes sources sur GitHub  
-- `mkdocs gh-deploy` → publier ton site en ligne  
-
