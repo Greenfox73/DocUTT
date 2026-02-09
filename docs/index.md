@@ -7,6 +7,14 @@ Ce site est mon espace personnel de gestion et d’organisation de la documentat
 - Structurer mes notes et documenter mes révisions par matière
 - Suivre ma progression vers l’obtention du diplôme
 
+## Mindmap
+:material-brain: [Mindmap](https://app.xmind.com/BXu4NKJA)
+
+## Guided des UE
+:material-google-drive: [Drive](https://drive.google.com/drive/folders/1Ce1mnIRSsEmr79hX5b480PPvMpoYy1XG)
+
+:octicons-search-16: [Guide des UE](https://drive.google.com/drive/folders/1Ce1mnIRSsEmr79hX5b480PPvMpoYy1XG)
+
 ## Organisation
 La documentation est classée par année, avec des pages thèmes et matières dédiées pour les exercices, les résumés de cours et les projets.
 

@@ -3,6 +3,7 @@ site_url: https://Greenfox73.github.io/DocUTT/
 site_author: Jean-Sebastien RIGAUD
 copyright: Copyright &copy; 2026 Jean-Sebastien RIGAUD
 theme:
+  logo: images/logo_utt.png
   name: material
   features:
     - navigation.tabs
@@ -24,7 +25,8 @@ nav:
     - Cours:
       - Résolution d’équations du second degré: soutien_math/equation_2nd_degre.md
       - Logarithmes et exponentielles: soutien_math/logarithmes_et_exponentielles_cours.md
-      - Calcul littéral : soutien_math/calcul_litteral_cours.md
+      - Calcul littéral: soutien_math/calcul_litteral_cours.md
+      - Inégalités, Racines et Valeur Absolue: soutien_math/inegalites_racines_et_valeur_absolue_cours.md 
     - Exercices:
       - Simplification et agilité algébrique: soutien_math/simplification_et_agilite_algebrique_exos.md
       - Logarithmes et exponentielles: soutien_math/logarithmes_et_exponentielles_exos.md
@@ -36,32 +38,22 @@ nav:
       - Calcul littéral: soutien_math/calcul_litteral_beta.md
 
   - Année 1:
+    - Calendrier universitaire: annee_1/calendrier_universitaire.md
     - Semestre 1:
-      - CS: annee_1/semestre_1_cs.md
-      - TM: annee_1/semestre_1_tm.md
-      - EC: annee_1/semestre_1_ec.md
-      - ME: annee_1/semestre_1_me.md
-      - HT: annee_1/semestre_1_ht.md
+      - MA12: annee_1/semestre_1/ma12.md
+      - MA14: annee_1/semestre_1/ma14.md
+      - PR15: annee_1/semestre_1/pr15.md
+      - MA21: annee_1/semestre_1/ma21.md
+      - AP1A: annee_1/semestre_1/ap1a.md
+      - LE08: annee_1/semestre_1/le08.md
+      - EV01: annee_1/semestre_1/ev01.md
+      
     - Semestre 2:
-      - CS: annee_1/semestre_2_cs.md
-      - TM: annee_1/semestre_2_tm.md
-      - EC: annee_1/semestre_2_ec.md
-      - ME: annee_1/semestre_2_me.md
-      - HT: annee_1/semestre_2_ht.md
-  - Année 2:
-    - Semestre 1:
-      - CS: annee_2/semestre_1_cs.md
-      - TM: annee_2/semestre_1_tm.md
-      - EC: annee_2/semestre_1_ec.md
-      - ME: annee_2/semestre_1_me.md
-      - HT: annee_2/semestre_1_ht.md
-    - Semestre 2:
-      - CS: annee_2/semestre_2_cs.md
-      - TM: annee_2/semestre_2_tm.md
-      - EC: annee_2/semestre_2_ec.md
-      - ME: annee_2/semestre_2_me.md
-      - HT: annee_2/semestre_2_ht.md
-
+      - CS: annee_1/semestre_2/semestre_2_cs.md
+      - TM: annee_1/semestre_2/semestre_2_tm.md
+      - EC: annee_1/semestre_2/semestre_2_ec.md
+      - ME: annee_1/semestre_2/semestre_2_me.md
+      - HT: annee_1/semestre_2/semestre_2_ht.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
