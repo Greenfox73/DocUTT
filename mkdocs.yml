@@ -27,6 +27,7 @@ nav:
       - Logarithmes et exponentielles: soutien_math/logarithmes_et_exponentielles_cours.md
       - Calcul littéral: soutien_math/calcul_litteral_cours.md
       - Inégalités, Racines et Valeur Absolue: soutien_math/inegalites_racines_et_valeur_absolue_cours.md 
+      - Dérivées et opérations: soutien_math/derivées_et_operations_cours.md
     - Exercices:
       - Simplification et agilité algébrique: soutien_math/simplification_et_agilite_algebrique_exos.md
       - Logarithmes et exponentielles: soutien_math/logarithmes_et_exponentielles_exos.md
@@ -34,6 +35,7 @@ nav:
       - Factorisation avancée: soutien_math/factorisation_avancee_exos.md
       - Second degré et changements de variable: soutien_math/second_degre_et_changements_de_variable_exos.md
       - Domaines, inéquations et algébre avancée: soutien_math/domaines_inequations_et_algebre_avancee_exos.md
+      - Dérivées et opérations: soutien_math/derivées_et_operations_exos.md
     - Archives:
       - Calcul littéral: soutien_math/calcul_litteral_beta.md
 
