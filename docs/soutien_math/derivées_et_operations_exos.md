@@ -17,6 +17,16 @@
     ![](../images/exos_derives_6-7.jpeg)
 
 
+:octicons-info-16: **Semaine 8**
+
+??? abstract "Enoncé: Partie 3"
+
+    ![](../images/exos_derives_8.jpeg)
+
+    ![](../images/exos_derives_9.jpeg)
+
+    ![](../images/exos_derives_10.jpeg)
+
 ??? success "Corrigé"
     
     corrige
