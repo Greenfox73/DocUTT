@@ -42,7 +42,10 @@ nav:
   - Année 1:
     - Calendrier universitaire: annee_1/calendrier_universitaire.md
     - Semestre 1:
-      - MA12: annee_1/semestre_1/ma12.md
+      - MA12:
+        - Cours: annee_1/semestre_1/ma12/ma12_cours.md
+        - TD: annee_1/semestre_1/ma12/ma12_td.md
+        - TP: annee_1/semestre_1/ma12/ma12_tp.md
       - MA14: annee_1/semestre_1/ma14.md
       - PR15: annee_1/semestre_1/pr15.md
       - MA21: annee_1/semestre_1/ma21.md
