@@ -27,6 +27,17 @@
 
     ![](../images/exos_derives_10.jpeg)
 
+
+:octicons-info-16: **Semaine 9**
+
+??? abstract "Enoncé"
+
+    ![](../images/meca_et_RDM.jpeg)
+
+    ![](../images/thermodynamique_et_transfert_&_electronique_et_magnetisme_des_materiaux.jpeg)
+
+    ![](../images/cinetique_et_diffusion_&_analyse_de_donnees_et_optimisation.jpeg)
+
 ??? success "Corrigé"
     
     corrige
