@@ -1,10 +1,19 @@
 # **AP1A : Définir et mettre en oeuvre son projet professionnel**
 
-:material-hub: [Moodle](https://moodle.utt.fr/course/view.php?id=176){target="_blank"}
+## :simple-ticktick: **Modalités de contrôle de connaissances P26**
 
-:material-google-drive: [Google DRIVE](https://drive.google.com/drive/search?q=ap1a){target="_blank"}
+- 50 % DM (QCM)
+- 50 % DM (e-portfolio)
 
- :fontawesome-solid-contact-card: **Responsable UE:** Guillaume DUCELLIER (<guillaume.ducellier@utt.fr>)
+## :material-tools: **Ressources**
+
+- [Moodle](https://moodle.utt.fr/course/view.php?id=176){target="_blank"}
+
+- [DRIVE AP1A: Définir et mettre en œuvre son projet professionnel](https://drive.google.com/drive/search?q=ap1a){target="_blank"}
+
+ - **Responsable UE:** Guillaume DUCELLIER (<guillaume.ducellier@utt.fr>)
+
+## :octicons-book-16: **Cours**
 
 ??? Quote  "Cours du 10/02/2026 : Introduction"
 
